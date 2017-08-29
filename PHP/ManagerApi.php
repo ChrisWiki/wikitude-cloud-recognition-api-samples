@@ -78,7 +78,7 @@ class ManagerAPI
     private $token = null;
     // The version of the API we will use
     private $version = null;
-    // Current API host (stage/live)
+    // Current API host
     private $apiRoot = null;
     // interval used to poll status of asynchronous operations
     private $pollInterval = null;
